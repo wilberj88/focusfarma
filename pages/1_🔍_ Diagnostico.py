@@ -2,13 +2,10 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.title('Diagnosticamos tu potencial ahorro energético')
-st.write('Indica la ubicación de la necesidad energética y el presupuesto anual disponible')
+st.title('Diagnosticamos cómo enfocarte al máximo 🧘')
 
-map_data = pd.DataFrame(
-    np.random.randn(1000, 2) / [50, 50] + [35.56, -74.04],
-    columns=['lat', 'lon'])
+st.text_input("🙇‍♀️¿Cuál es tu horario de sueño?🛌")
 
-st.map(map_data)
+st.text_input("👨‍🏫 ¿Cuál es tu horario de trabajo?👷‍♀")
 
-st.text_input("¿Cuál es tu presupuesto anual para consumo energético?", key="presupuesto")
+st.text_input("💃¿Cuál es tu horario de fiesta?🕺")
