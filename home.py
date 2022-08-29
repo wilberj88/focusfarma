@@ -15,7 +15,7 @@ st.markdown(
   En esta web encontrarás:
   - 🔎 _   Diagnóstico para enfocarte en el trabajo, el sueño y la fiesta
   - 🛒 _   Receta personalizada a tus Necesidades
-  - ✍️ _    Propuesta Inteligente de Suministro
+  - ✍️ _    Propuesta Inteligente de Dosificación
   - 🪜_    Acompañamiento paso a paso con monitoreo recurrente
     
   EMPIEZA TU 🔎 DIAGNÓSTICO AHORA 🕰
